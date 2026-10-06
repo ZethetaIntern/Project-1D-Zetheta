@@ -1,0 +1,6 @@
+{
+  "name": "OpenGateway: Open Banking FAPI Gateway & TPP Ecosystem",
+  "description": "Enterprise Open Banking API Gateway with FAPI protocols, OAuth 2.0 consent lifecycle, multi-framework compliance (PSD2, UK OBIE, India AA, Australia CDR), sandbox simulator, and TPP developer portal with Zetheta submission suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
